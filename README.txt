@@ -1,3 +1,3 @@
-Alarm clock app 
+Alarm Clock
 
-Test
+Just a regular clock no alarm yet
